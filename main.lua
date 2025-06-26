@@ -1,3 +1,4 @@
+--Made by Mitchell
 -- Number Guessing Game
 math.randomseed(os.time())
 
